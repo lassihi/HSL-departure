@@ -1,2 +1,3 @@
-# HSL-arrival-departure
-Get information about arriving and departing vehicles on a specified HSL stop
+# HSL-departure
+
+Get information about rides departing from a specified HSL stop using the command line.
