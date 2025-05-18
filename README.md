@@ -23,3 +23,5 @@ Get information about the next rides departing from a specified HSL stop using t
 6. Make it a command.
 
    <img width="707" alt="Näyttökuva 2025-05-18 kello 23 32 56" src="https://github.com/user-attachments/assets/271da052-b136-43af-a0db-7ea611704506" />
+
+   I used a bash script that activates virtual environment, runs the python script, and deactivates virtual environment. Lastly I added the bash script to `/usr/local/bin/`.
