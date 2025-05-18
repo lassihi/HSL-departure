@@ -17,3 +17,7 @@ Get information about the next rides departing from a specified HSL stop using t
         python3 HSL.py <stop_id> <number_of_departures>
 
    <img width="707" alt="Näyttökuva 2025-05-18 kello 23 33 49" src="https://github.com/user-attachments/assets/67ad58bb-551c-45d9-80d5-2bbc0d14fc46" />
+
+5. Make it a command.
+
+   <img width="707" alt="Näyttökuva 2025-05-18 kello 23 32 56" src="https://github.com/user-attachments/assets/271da052-b136-43af-a0db-7ea611704506" />
