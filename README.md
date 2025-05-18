@@ -4,7 +4,7 @@ Get information about the next rides departing from a specified HSL stop using t
 
 ## Usage
 
-1. Clone the repository
+1. Clone the repository.
 
         git clone https://github.com/lassihi/HSL-departure.git
 
@@ -12,7 +12,7 @@ Get information about the next rides departing from a specified HSL stop using t
 
 3. Install Python Requests module, https://requests.readthedocs.io/en/latest/.
 
-4. Run the script
+4. Run the script.
    
         python3 HSL.py <stop_id> <number_of_departures>
 
