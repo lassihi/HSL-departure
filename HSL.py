@@ -82,7 +82,7 @@ if __name__=="__main__":
             if realtime:
                 departureTimeSecs = ride['realtimeDeparture']
                 departureTime = seconds_since_midnight_to_time(departureTimeSecs)
-                print(f"{routeShortName:7}{routeHeadsign:21} {departureTime}| realtime  | {alertText}")
+                print(f"{routeShortName:7}{routeHeadsign:21} {departureTime} | realtime  | {alertText}")
             else:
                 departureTimeSecs = ride['scheduledDeparture']    
                 departureTime = seconds_since_midnight_to_time(departureTimeSecs)
